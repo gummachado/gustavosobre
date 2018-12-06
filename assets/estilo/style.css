@@ -1,0 +1,141 @@
+body{
+    font-family: 'Raleway', Tahoma, arial;:'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+.banner > h1{
+    font-family: 'Raleway', Tahoma, arial;: 'Krub', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #1f77fa;
+    display: flex;
+    justify-content: center;
+  }
+  
+ 
+.banner{
+    padding-top: 24%;
+    padding-bottom: 24%;
+    background-image: url('../imagens/formatura.png');
+    background-repeat: no-repeat;
+    background-size:  cover;
+    margin-top: -115px;
+    size: 200px;
+    
+  }
+
+
+
+.estilo-imagem{
+    border: solid #1f77fa; 2px;
+    border-radius: 50%;
+    
+  }
+
+
+  
+
+
+
+.menu{
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-bottom: 20px;
+    opacity: 0.7 ;
+     
+    
+    
+  }
+  a{
+    text-decoration: none;
+    color:white;
+  }
+  
+.menu li{
+    display: inline;
+    padding-left: 80px;
+    
+  }
+
+
+.menu img{
+    width: 40px;
+  }
+
+.container{
+    display: flex;
+    align-items:center;
+    align-content: center;
+    flex-wrap: row wrap;
+    margin-left: 10%;
+    margin: 10%;
+    justify-content: space-around;
+    
+    padding: 10px;
+
+    }
+
+    .menu img{
+       align-items: center;
+       margin-left: 50px;
+       
+    }
+
+  footer  {
+  background-color: #1f77fa;
+  padding: 12px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  
+  
+
+
+
+}
+
+    .logos{
+      background-color: #1f77fa;
+      display: flex;
+      
+      
+      
+      ;
+    }
+
+    .logos img{
+      
+      border-radius: 50px;
+      width: 40px;
+      
+    
+     
+     
+    }
+
+
+
+.container>p{
+padding: 80px;
+font-family: 'Raleway', Tahoma, arial;
+color: black;
+
+
+
+
+
+}
+
+    .uni img{
+      
+      border-radius: 60px;
+      width: 40px;
+    }
+
+   
+
+   
+   
